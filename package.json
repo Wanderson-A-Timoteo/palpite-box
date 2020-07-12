@@ -1,0 +1,31 @@
+{
+  "name": "palpite-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^9.8.5",
+    "next": "^9.4.4",
+    "postcss-import": "^12.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "tailwindcss": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wanderson-A-Timoteo/palpite-box.git"
+  },
+  "keywords": [],
+  "author": "Wanderson A. Timoteo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wanderson-A-Timoteo/palpite-box/issues"
+  },
+  "homepage": "https://github.com/Wanderson-A-Timoteo/palpite-box#readme"
+}
