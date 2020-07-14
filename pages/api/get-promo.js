@@ -14,7 +14,7 @@ export default async (req, res) => {
     await doc.loadInfo()
 
     const sheet = doc.sheetsByIndex[2]
-    await sheet.loadCells('A2:B2')
+    await sheet.loadCells('A3:B3')
 
     const mostrarPromocaoCell = sheet.getCell(2, 0)
     const textoCell = sheet.getCell(2, 1)
