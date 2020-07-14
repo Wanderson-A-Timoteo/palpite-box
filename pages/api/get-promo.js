@@ -14,10 +14,10 @@ export default async (req, res) => {
     await doc.loadInfo()
 
     const sheet = doc.sheetsByIndex[2]
-    await sheet.loadCells('A3:B3')
+    await sheet.loadCells('A2:B2')
 
-    const mostrarPromocaoCell = sheet.getCell(2, 0)
-    const textoCell = sheet.getCell(2, 1)
+    const mostrarPromocaoCell = sheet.getCell(1, 0)
+    const textoCell = sheet.getCell(1, 1)
 
     res.end(JSON.stringify({
       showCoupon: mostrarPromocaoCell.value === 'VERDADEIRO',
@@ -30,7 +30,5 @@ export default async (req, res) => {
       message: ''
     }))
   }
-
-
 
 }

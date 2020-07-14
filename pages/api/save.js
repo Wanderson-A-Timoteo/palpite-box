@@ -20,10 +20,10 @@ export default async (req, res) => {
     const data = JSON.parse(req.body)
 
     const sheetConfig = doc.sheetsByIndex[2]
-    await sheetConfig.loadCells('A3:B3')
+    await sheetConfig.loadCells('A2:B2')
 
-    const mostrarPromocaoCell = sheetConfig.getCell(2, 0)
-    const textoCell = sheetConfig.getCell(2, 1)
+    const mostrarPromocaoCell = sheetConfig.getCell(1, 0)
+    const textoCell = sheetConfig.getCell(1, 1)
 
     let Cupom = ''
     let Promo = ''
