@@ -10,6 +10,9 @@
 
 ![Preview](https://github.com/Wanderson-A-Timoteo/palpite-box/blob/master/public/interface.png?raw=true)
 
+## Acessar o web site Palpite Box:
+
+[Clique aqui](palpite-box.wanderson-a-timoteo.vercel.app).
 
 ## Layout:
 
