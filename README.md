@@ -3,7 +3,7 @@
 [![HitCount](https://hits.dwyl.com/Wanderson-A-Timoteo/palpite-box.svg)](https://github.com/Wanderson-A-Timoteo/palpite-box)
 
 <p align="justify">
-  Aplicação desenvolvida durante o workshop Semana Fullstack Master, disponibilizada pela plataforma DevPleno e lecionada pelo mestre em SI e desenvolvedor Tulio Faria. Consiste numa caixa de sugestões na qual os clientes podem deixar opiniões e sugestões sobre os estabelecimentos comerciais e, em troca, receber cupons de descontos e vantagens. A aplicação conta com integração à uma Planilha do Google, na qual o dono do estabelecimento pode definir as configurações do cupom de desconto, além de ter a listagem completa dos clientes e suas avaliações.
+  Aplicação desenvolvida durante o workshop Semana Fullstack Master, disponibilizada pela plataforma DevPleno e lecionada pelo mestre em SI e desenvolvedor Tulio Faria. Consiste num sistema de avaliação na qual os clientes podem deixar sua nota de 0 a 5, sobre os estabelecimentos comerciais e, em troca, receber cupons de descontos e vantagens. A aplicação conta com integração à uma Planilha do Google, na qual o dono do estabelecimento pode definir as configurações do cupom de desconto, além de ter a listagem completa dos clientes e suas avaliações.
 </p> <br />
 
 ## Pré-Vizualização do Projeto:
