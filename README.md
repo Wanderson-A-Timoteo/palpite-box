@@ -12,7 +12,7 @@
 
 ## Acessar o web site Palpite Box:
 
-[Clique aqui](palpite-box.wanderson-a-timoteo.vercel.app).
+[Clique aqui](https://palpite-box.wanderson-a-timoteo.vercel.app/)
 
 ## Layout:
 
