@@ -67,12 +67,12 @@ SHEET_DOC_ID = id da planilha
 
 ## Autor:
 
-* **Wanderson A. Timóteo** - [LinkedIn](https://www.linkedin.com/in/wanderson-a-timoteo/)
+* **Wanderson A. Timóteo** - [wanderson.ga](https://wanderson.ga)
 
 
 ## Licença
 
-Licenciado sob a licença MIT - veja [LICENSE](LICENSE) para mais informações.
+* Licenciado sob a licença MIT - veja [LICENSE](LICENSE) para mais informações.
 
 ## Agradecimentos
 

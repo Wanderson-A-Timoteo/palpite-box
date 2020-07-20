@@ -5,7 +5,7 @@ const Footer = () => {
     <div className='bg-gray-700 p-4'>
       <div className='container mx-auto text-center font-bold text-white'>
         Projeto desenvolvido por: {' '}
-        <a className='hover:underline' href='https://github.com/wanderson-a-timoteo'>Wanderson A. Timóteo</a>
+        <a className='hover:underline' href='https://wanderson.ga'>Wanderson A. Timóteo</a>
         <div className='mt-2'>
           <img className='inline p-4' src='/logo_semana_fsm.png' />
           <img className='inline p-4' src='/logo_devpleno.png' />
